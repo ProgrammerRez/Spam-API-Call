@@ -1,7 +1,5 @@
-Perfect! Here's a polished, GitHub-ready **README.md** with badges, clear sections, and a professional layout:
-
-````markdown
-# 📨 Spam Classifier API Interface
+# [📨 Spam Classifier API Interface]
+## Streamlit Deployment: [Link](https://spam-api-call-interface.streamlit.app)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-green)](https://streamlit.io/)
@@ -75,12 +73,6 @@ print(predict("Congratulations!, you've won a prize"))
 
 ---
 
-## 🖼 Screenshot
-
-*(Add a screenshot of your Streamlit app here)*
-
----
-
 ## 👤 Author
 
 **Muhammad Umar**
@@ -94,7 +86,4 @@ print(predict("Congratulations!, you've won a prize"))
 * All messages and results are stored in **session state** for easy tracking.
 * Make sure your Python environment has **Streamlit ≥1.25** and **Gradio client installed**.
 
-```
 
-If you want, I can also **add a “Try it on Hugging Face Spaces” badge** and a **live demo link** to make it more professional for GitHub. Do you want me to do that?
-```
