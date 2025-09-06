@@ -17,7 +17,7 @@ st.title('Spam Classifier API Interface')
 
 with st.sidebar:
     st.info("""
-        The Application is using a trained classifier model
+        The Application is using a trained classifier model (made by me)
         deployed on Hugging Face Spaces and called via API 
         to classify the given text.
     """)
