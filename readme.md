@@ -1,4 +1,4 @@
-# [📨 Spam Classifier API Interface]
+# 📨 Spam Classifier API Interface
 ## Streamlit Deployment: [Link](https://spam-api-call-interface.streamlit.app)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
